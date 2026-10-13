@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "299668dbd1f0e032a5680c5b",
+  "owner": "senbtbdyg",
+  "repo": "page-0f6170de8e289be30d31ff56",
+  "title": "clash代理",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0f6170de8e289be30d31ff56",
+      "a": "clash代理",
+      "b": "",
+      "entity": "clash代理",
+      "brand": "clash代理",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5abe51d01daf64ba82ca9e08017af2242f53646103aafd05e08a6796cde13ecc",
+      "content": {
+        "keyword1": "clash代理",
+        "keyword2": "",
+        "primary_entity": "clash代理",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash代理提供高质量VPN加速器服务，Clash客户端一键下载，解锁流媒体加速。基础版15元/月，旗舰版35元/月，团队版85元/月。官网下载专业节点池，助力畅享高速网络！",
+          "AI_DESCRIPTION": "clash代理提供高质量VPN加速器服务，Clash客户端一键下载，解锁流媒体加速。基础版15元/月，旗舰版35元/月，团队版85元/月。官网下载专业节点池，助力畅享高速网络！"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --beige: #f5f5dc;\n            --green: #228b22;\n        }\n        body {\n            font-family: system-ui, -apple-system, sans-serif;\n            line-height: 1.7;\n            color: #333;\n            background: var(--beige);\n            margin: 0;\n            padding: 0;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        header {\n            background: var(--green);\n            color: white;\n            padding: 1rem 0;\n        }\n        nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n        }\n        .hero {\n            background: linear-gradient(135deg, #228b22 0%, #f5f5dc 100%);\n            color: white;\n            text-align: center;\n            padding: 4rem 1rem;\n        }\n        h1 {\n            font-size: 3rem;\n            margin-bottom: 0.5rem;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem 20px;\n        }\n        section {\n            margin-bottom: 3rem;\n        }\n        h2 {\n            color: var(--green);\n            border-bottom: 3px solid var(--green);\n            padding-bottom: 0.8rem;\n            margin-bottom: 1.5rem;\n        }\n        .card {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n        }\n        .plan {\n            background: white;\n            border-radius: 12px;\n            padding: 1.8rem;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.08);\n            transition: all 0.3s;\n        }\n        .plan:hover {\n            transform: translateY(-8px);\n        }\n        .plan.featured {\n            border: 4px solid var(--green);\n            position: relative;\n        }\n        .plan.featured::before {\n            content: \"推荐首选\";\n            position: absolute;\n            top: -12px;\n            right: 25px;\n            background: var(--green);\n            color: white;\n            padding: 6px 16px;\n            border-radius: 30px;\n            font-size: 0.85rem;\n            font-weight: bold;\n        }\n        .features {\n            list-style: none;\n            padding: 0;\n            margin: 1.2rem 0;\n        }\n        .features li {\n            padding: 0.75rem 0;\n            border-bottom: 1px solid #eee;\n            font-size: 0.98rem;\n        }\n        .features li:last-child {\n            border-bottom: none;\n        }\n        details {\n            margin: 1.2rem 0;\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            padding: 1rem 1.2rem;\n            background: #f8f8f8;\n        }\n        summary:hover {\n            background: #f0f0f0;\n        }\n        .btn {\n            background: var(--green);\n            color: white;\n            padding: 0.85rem 1.8rem;\n            border-radius: 6px;\n            text-decoration: none;\n            display: inline-block;\n            margin: 1rem 0 0;\n            font-weight: 500;\n        }\n        footer {\n            background: #1a1a1a;\n            color: #ddd;\n            text-align: center;\n            padding: 2.5rem 1rem;\n            font-size: 0.95rem;\n        }\n        footer a {\n            color: #aaa;\n            text-decoration: none;\n        }\n        @media (max-width: 768px) {\n            h1 { font-size: 2.6rem; }\n            .hero { padding: 3rem 1rem; }\n            .card { grid-template-columns: 1fr; }\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">clash代理</div>\n            <div>\n                <a href=\"#plans\">套餐选择</a>\n                <a href=\"#download\">客户端下载</a>\n                <a href=\"#faq\">FAQ</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <h1>clash代理</h1>\n            <p>专业VPN加速器 • Clash客户端下载 • 高速节点池</p>\n            <a href=\"#download\" class=\"btn\">立即下载Clash客户端</a>\n        </section>\n        \n        <section>\n            <h2>品牌简介</h2>\n            <p>clash代理是专注于Clash代理服务的专业品牌，采用最新节点技术，为用户提供稳定高速的网络加速方案。无论日常浏览还是海外娱乐，都能轻松实现低延迟连接。</p>\n        </section>\n        \n        <section>\n            <h2>使用场景</h2>\n            <p>clash代理适用于多种网络场景，包括流媒体解锁、在线游戏加速、企业远程办公以及国际旅游等。我们的节点池覆盖全球主流地区，确保无论身在何处都能获得流畅体验。</p>\n            <ul>\n                <li>流媒体解锁</li>\n                <li>游戏加速</li>\n                <li>远程办公</li>\n                <li>国际旅游</li>\n            </ul>\n        </section>\n        \n        <section>\n            <h2>操作说明</h2>\n            <ol>\n                <li><strong>访问官网</strong> 下载Clash客户端</li>\n                <li><strong>获取订阅链接</strong> 并导入配置文件</li>\n                <li><strong>选择节点</strong> 进行连接加速</li>\n                <li><strong>享受服务</strong> 畅享高速网络</li>\n            </ol>\n            <a href=\"#download\" class=\"btn\">立即下载客户端</a>\n        </section>\n        \n        <section id=\"plans\">\n            <h2>套餐选择</h2>\n            <div class=\"card\">\n                <div class=\"plan\">\n                    <h3>基础版</h3>\n                    <p>¥15/月 或 ¥150/年</p>\n                    <ul class=\"features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                    <a href=\"#download\" class=\"btn\">选择基础版</a>\n                </div>\n                <div class=\"plan featured\">\n                    <h3>旗舰版</h3>\n                    <p>¥35/月 或 ¥350/年</p>\n                    <ul class=\"features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                    <a href=\"#download\" class=\"btn\">选择旗舰版</a>\n                </div>\n                <div class=\"plan\">\n                    <h3>团队版</h3>\n                    <p>¥85/月 或 ¥850/年</p>\n                    <ul class=\"features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                    <a href=\"#download\" class=\"btn\">选择团队版</a>\n                </div>\n            </div>\n        </section>\n        \n        <section id=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>什么是clash代理？</summary>\n                <p>clash代理是专业的Clash代理服务，提供高速节点池，帮助用户解锁网络限制，获得稳定加速体验。</p>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <p>只需访问官网，点击下载按钮，即可获取适用于Windows、Mac、iOS、Android的Clash客户端。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>基础版支持3台设备，旗舰版支持5台，团队版支持20台，均支持主流操作系统和移动设备。</p>\n            </details>\n            <details>\n                <summary>流量如何计算？</summary>\n                <p>每月流量按日累计计算，超出部分将暂停加速，直至次月重置。</p>\n            </details>\n            <details>\n                <summary>售后支持如何？</summary>\n                <p>旗舰版及以上提供7x24在线客服，团队版有专属客户经理提供一对一服务。</p>\n            </details>\n            <details>\n                <summary>节点池质量如何？</summary>\n                <p>我们定期更新并优化全球节点，确保低延迟连接，覆盖主要国际线路。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 clash代理 • 所有权利保留</p>\n        <p>友情链接：<a href=\"#\">机场订阅</a> | <a href=\"#\">VPN教程</a> | <a href=\"#\">节点测速</a></p>\n        <p>官网：<a href=\"#\">https://clashproxy.example.com</a> | 客户端下载</p>\n    </footer>\n\n",
+          "hash": "55a3655fac404a7d7bc0d0db12c1d1223835674434b38f5e9b793fa762d9060c",
+          "seo": {
+            "title": "clash代理 - 专业VPN加速器 Clash客户端下载 官网",
+            "keywords": "clash代理,vpn加速器,机场订阅,客户端下载,官网下载,clash节点",
+            "description": "clash代理提供高质量VPN加速器服务，Clash客户端一键下载，解锁流媒体加速。基础版15元/月，旗舰版35元/月，团队版85元/月。官网下载专业节点池，助力畅享高速网络！"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yongdingjob.cn",
+    "host": "p-7ddf9414cd.yongdingjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "92c63c56eebba89e8ad8bbaea2ebc02e37ca610972f9d0ba95da2f2b3258da45",
+    "sitemap.xml": "78f8821275541f1175b21ece3b11d47b80b3688cd627160b3e074c26d8486e8e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dfb8bc48027ed6acc80fe76f6dbd8b412e34facdcc100a0baa01906c31e433ce",
+    "robots.txt": "6add6b49a64ed3310ff48598caa03d20da3f1e721997bb8bd906c2ce9fc9c873",
+    "d12bd3fed6b269121e9da8f8b43fe580.txt": "652928d5ff5e096e6e681f7af327c6712bf1ab83f256371abc9f9eb002665a4e"
+  },
+  "revision": "d1bce3c2cb5679e20a5406ba8745607fd3ab8e6b5359c1009f736b681735cfa5"
+}

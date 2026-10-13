@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-7ddf9414cd.yongdingjob.cn/sitemap.xml
